@@ -1,3 +1,5 @@
+/* This program consists of linear search, binary search, selection sort & insertion sort. All these programs are joined together by functions and switch statements.*/
+
 import java.util.Scanner;
 import java.util.Arrays;
 public class Searching_sorting {
